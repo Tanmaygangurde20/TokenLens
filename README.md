@@ -1,7 +1,7 @@
 # TokenLens: LLM Text Generation & Sampling Simulator
 
 ## 🎯 Project Overview
-
+Live Link : https://tokenlensllm.netlify.app/
 TokenLens is an educational tool that visualizes how Large Language Models (LLMs) process text internally and generate responses. It provides step-by-step visualization of tokenization, embeddings, attention mechanisms, and sampling algorithms to help users understand transformer architecture.
 
 ## 🏗️ Architecture
