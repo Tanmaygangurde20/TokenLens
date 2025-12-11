@@ -1,0 +1,30 @@
+# Python virtual environment
+venv/
+ENV/
+env/
+
+# PyCache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model and dataset cache
+*.bin
+*.pt
+*.pth
+huggingface/
+.cache/
+.cache/*
+
+# IDE folders
+.vscode/
+.idea/
+
+# Logs
+*.log
+*.txt
+
+# OS files
+.DS_Store
+Thumbs.db
