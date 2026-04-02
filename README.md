@@ -20,7 +20,7 @@ TokenLens is an educational tool that visualizes how Large Language Models (LLMs
 - **Interactive Controls**: User-friendly sliders and inputs for model parameters
 - **Real-time Visualization**: Charts and graphs showing model internals
 - **Step-by-step Explanations**: Beginner-friendly descriptions of each process
-- **Responsive Design**: Works on desktop and mobile devices
+- **Responsive Design**: Works on desktop and mobile device
 
 ## 🔧 Key Features
 
